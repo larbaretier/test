@@ -1,9 +1,9 @@
 {
-    "title": null,
-    "description": null,
+    "title": "My great game",
+    "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
     "score": null,
     "scoreName": null,
-    "textCommand": null,
+    "textCommand": "Dont lose",
     "musics": null,
     "sounds": null,
     "winConditions": null,
