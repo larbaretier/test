@@ -1,4 +1,59 @@
-[{
+[
+    {
+    "couleur": "0xFFE91E63",
+    "createur": "newKira",
+    "imgCrea": "assets/images/giraffe.jpg",
+    "jeu": {
+          "title": "newGame jsonObj",
+          "description": "now with an object from json",
+          "score": null,
+          "scoreName": null,
+          "textCommand": null,
+          "musics": null,
+          "sounds": null,
+          "winConditions": null,
+          "background": {
+            "image": "anim1/Scan0015.png"
+          },
+          "titleScreen": {
+            "image": "panda.png"
+          },
+          "gameOverScreen": {
+            "image": "pingouins.jpg"
+          },
+          "winScreen": null,
+          "time": null,
+          "won": false,
+          "objects": [
+            {
+              "solid": false,
+              "animImages": [
+                [
+                  "anim1/Scan0015.png",
+                  "anim1/Scan0016.png",
+                  "anim1/Scan0017.png",
+                  "anim1/Scan0018.png"
+                ]
+              ],
+              "animationLoop": "loop",
+              "fps": 24,
+              "width": 128,
+              "height": 128,
+              "angle": 0,
+              "currentAnimImage": 0,
+              "mySwitch": false,
+              "x": 0,
+              "y": 0,
+              "myConditions": null,
+              "myActions": null,
+              "myActionsParameters": null
+            }
+          ],
+          "zones": null
+        }
+        "save": true
+    },
+    {
     "couleur": "0xFFE91E63",
     "createur": "xXAurel",
     "imgCrea": "assets/images/giraffe.jpg",
