@@ -49,6 +49,7 @@
             {
               "events": [
                 {
+                  "name": "evTouchObject",
                   "completed": false,
                   "reverse": false
                 }
