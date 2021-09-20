@@ -12,15 +12,9 @@
       "musics": null,
       "sounds": null,
       "winConditions": null,
-      "background": {
-        "image": "anim1/Scan0015.png"
-      },
-      "titleScreen": {
-        "image": "panda.png"
-      },
-      "gameOverScreen": {
-        "image": "pingouins.jpg"
-      },
+      "background": "anim1/Scan0015.png",
+      "titleScreen": "panda.png",
+      "gameOverScreen": "pingouins.jpg",
       "winScreen": null,
       "time": null,
       "won": false,
@@ -91,15 +85,9 @@
           "musics": null,
           "sounds": null,
           "winConditions": null,
-          "background": {
-            "image": "anim1/Scan0015.png"
-          },
-          "titleScreen": {
-            "image": "panda.png"
-          },
-          "gameOverScreen": {
-            "image": "pingouins.jpg"
-          },
+          "background": "anim1/Scan0015.png",
+          "titleScreen": "panda.png",
+          "gameOverScreen": "pingouins.jpg",
           "winScreen": null,
           "time": null,
           "won": false,
@@ -145,15 +133,9 @@
         "musics": null,
         "sounds": null,
         "winConditions": null,
-        "background": {
-          "image": "anim1/Scan0015.png"
-        },
-        "titleScreen": {
-          "image": "giraffe.jpg"
-        },
-        "gameOverScreen": {
-          "image": "pingouins.jpg"
-        },
+        "background": "anim1/Scan0015.png",
+        "titleScreen": "panda.png",
+        "gameOverScreen": "pingouins.jpg",
         "winScreen": null,
         "time": null,
         "won": false,
@@ -175,15 +157,9 @@
         "musics": null,
         "sounds": null,
         "winConditions": null,
-        "background": {
-          "image": "anim1/Scan0015.png"
-        },
-        "titleScreen": {
-          "image": "panda.jpg"
-        },
-        "gameOverScreen": {
-          "image": "pingouins.jpg"
-        },
+        "background": "anim1/Scan0015.png",
+        "titleScreen": "panda.png",
+        "gameOverScreen": "pingouins.jpg",
         "winScreen": null,
         "time": null,
         "won": false,
@@ -205,15 +181,9 @@
         "musics": null,
         "sounds": null,
         "winConditions": null,
-        "background": {
-          "image": "anim1/Scan0015.png"
-        },
-        "titleScreen": {
-          "image": "pingouins.jpg"
-        },
-        "gameOverScreen": {
-          "image": "pingouins.jpg"
-        },
+        "background": "anim1/Scan0015.png",
+        "titleScreen": "panda.png",
+        "gameOverScreen": "pingouins.jpg",
         "winScreen": null,
         "time": null,
         "won": false,
@@ -235,15 +205,9 @@
         "musics": null,
         "sounds": null,
         "winConditions": null,
-        "background": {
-          "image": "anim1/Scan0015.png"
-        },
-        "titleScreen": {
-          "image": "anim1/Scan0015.png"
-        },
-        "gameOverScreen": {
-          "image": "pingouins.jpg"
-        },
+        "background": "anim1/Scan0015.png",
+        "titleScreen": "panda.png",
+        "gameOverScreen": "pingouins.jpg",
         "winScreen": null,
         "time": null,
         "won": false,
@@ -265,15 +229,9 @@
         "musics": null,
         "sounds": null,
         "winConditions": null,
-        "background": {
-          "image": "anim1/Scan0015.png"
-        },
-        "titleScreen": {
-          "image": "panda.png"
-        },
-        "gameOverScreen": {
-          "image": "pingouins.jpg"
-        },
+        "background": "anim1/Scan0015.png",
+        "titleScreen": "panda.png",
+        "gameOverScreen": "pingouins.jpg",
         "winScreen": null,
         "time": null,
         "won": false,
