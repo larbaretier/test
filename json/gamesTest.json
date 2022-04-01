@@ -12,9 +12,9 @@
       "musics": null,
       "sounds": null,
       "winConditions": null,
-      "background": "anim1/Scan0015.png",
-      "titleScreen": "panda.png",
-      "gameOverScreen": "pingouins.jpg",
+      "background": "https://github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
+      "titleScreen": "https://github.com/larbaretier/test/blob/main/panda.png?raw=true",
+      "gameOverScreen": "https://github.com/larbaretier/test/blob/main/pingouins.jpg?raw=true",
       "winScreen": null,
       "time": null,
       "won": false,
@@ -23,10 +23,10 @@
           "solid": false,
           "animImages": [
             [
-              "anim1/Scan0015.png",
-              "anim1/Scan0016.png",
-              "anim1/Scan0017.png",
-              "anim1/Scan0018.png"
+              "https://github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
+              "https://github.com/larbaretier/test/blob/main/Scan0016.png?raw=true",
+              "https://github.com/larbaretier/test/blob/main/Scan0017.png?raw=true",
+              "https://github.com/larbaretier/test/blob/main/Scan0018.png?raw=true"
             ]
           ],
           "animationLoop": "viceversa_loop",
@@ -136,13 +136,13 @@
               ""
             ],
             [
-              "/audio/breaking_glass.mp3",
+              "https://github.com/larbaretier/test/blob/main/breaking_glass.mp3?raw=true",
               "add;5",
               "obj1;z1"
             ],
             [
               "obj1;0;80000;300;Line;true;",
-              "/audio/opera.mp3"
+              "https://github.com/larbaretier/test/blob/main/opera.mp3?raw=true"
             ]
           ]
         }
@@ -169,173 +169,7 @@
       ]
     },
     "save": true
-    },
-    {
-    "couleur": "0xFFE91E63",
-    "createur": "newKira",
-    "imgCrea": "assets/images/giraffe.jpg",
-    "jeu": {
-          "title": "newGame jsonObj",
-          "description": "now with an object from json",
-          "score": null,
-          "scoreName": null,
-          "textCommand": null,
-          "musics": null,
-          "sounds": null,
-          "winConditions": null,
-          "background": "anim1/Scan0015.png",
-          "titleScreen": "panda.png",
-          "gameOverScreen": "pingouins.jpg",
-          "winScreen": null,
-          "time": null,
-          "won": false,
-          "objects": [
-            {
-              "solid": false,
-              "animImages": [
-                [
-                  "anim1/Scan0015.png",
-                  "anim1/Scan0016.png",
-                  "anim1/Scan0017.png",
-                  "anim1/Scan0018.png"
-                ]
-              ],
-              "animationLoop": "loop",
-              "fps": 24,
-              "width": 128,
-              "height": 128,
-              "angle": 0,
-              "currentAnimImage": 0,
-              "mySwitch": false,
-              "x": 0,
-              "y": 0,
-              "myConditions": null,
-              "myActions": null,
-              "myActionsParameters": null
-            }
-          ],
-          "zones": null
-        },
-        "save": true
-    },
-    {
-    "couleur": "0xFFE91E63",
-    "createur": "xXAurel",
-    "imgCrea": "assets/images/giraffe.jpg",
-    "jeu": {
-        "title": "My great game",
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "score": null,
-        "scoreName": null,
-        "textCommand": "Dont lose",
-        "musics": null,
-        "sounds": null,
-        "winConditions": null,
-        "background": "anim1/Scan0015.png",
-        "titleScreen": "panda.png",
-        "gameOverScreen": "pingouins.jpg",
-        "winScreen": null,
-        "time": null,
-        "won": false,
-        "objects": null,
-        "zones": null
-      },
-    "save": true
-  },
-  {
-    "couleur": "0xFF2196F3",
-    "createur": "Louis_AR",
-    "imgCrea": "assets/images/panda.jpg",
-    "jeu": {
-        "title": "My great game 2",
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "score": null,
-        "scoreName": null,
-        "textCommand": "Dont lose",
-        "musics": null,
-        "sounds": null,
-        "winConditions": null,
-        "background": "anim1/Scan0015.png",
-        "titleScreen": "panda.png",
-        "gameOverScreen": "pingouins.jpg",
-        "winScreen": null,
-        "time": null,
-        "won": false,
-        "objects": null,
-        "zones": null
-      },
-    "save": false
-  },
-  {
-    "couleur": "0xFFE91E63",
-    "createur": "UnCreateur022",
-    "imgCrea": "assets/images/pingouins.jpg",
-    "jeu": {
-        "title": "My great game 3",
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "score": null,
-        "scoreName": null,
-        "textCommand": "Dont lose",
-        "musics": null,
-        "sounds": null,
-        "winConditions": null,
-        "background": "anim1/Scan0015.png",
-        "titleScreen": "panda.png",
-        "gameOverScreen": "pingouins.jpg",
-        "winScreen": null,
-        "time": null,
-        "won": false,
-        "objects": null,
-        "zones": null
-      },
-    "save": false
-  },
-  {
-    "couleur": "0xFF2196F3",
-    "createur": "BaudTerreur22",
-    "imgCrea": "assets/images/giraffe.jpg",
-    "jeu": {
-        "title": "My great game 4",
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "score": null,
-        "scoreName": null,
-        "textCommand": "Dont lose",
-        "musics": null,
-        "sounds": null,
-        "winConditions": null,
-        "background": "anim1/Scan0015.png",
-        "titleScreen": "panda.png",
-        "gameOverScreen": "pingouins.jpg",
-        "winScreen": null,
-        "time": null,
-        "won": false,
-        "objects": null,
-        "zones": null
-      },
-    "save": true
-  },
-  {
-    "couleur": "0xFFE91E63",
-    "createur": "Inconnu263",
-    "imgCrea": "assets/images/panda.jpg",
-    "jeu": {
-        "title": "My great game 5",
-        "description": "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit",
-        "score": null,
-        "scoreName": null,
-        "textCommand": "Dont lose",
-        "musics": null,
-        "sounds": null,
-        "winConditions": null,
-        "background": "anim1/Scan0015.png",
-        "titleScreen": "panda.png",
-        "gameOverScreen": "pingouins.jpg",
-        "winScreen": null,
-        "time": null,
-        "won": false,
-        "objects": null,
-        "zones": null
-      },
-    "save": false
-  }
+    }
+    
+    
 ]
