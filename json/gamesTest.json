@@ -12,9 +12,9 @@
       "musics": null,
       "sounds": null,
       "winConditions": null,
-      "background": "https://github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
-      "titleScreen": "https://github.com/larbaretier/test/blob/main/panda.png?raw=true",
-      "gameOverScreen": "https://github.com/larbaretier/test/blob/main/pingouins.jpg?raw=true",
+      "background": "github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
+      "titleScreen": "github.com/larbaretier/test/blob/main/panda.png?raw=true",
+      "gameOverScreen": "github.com/larbaretier/test/blob/main/pingouins.jpg?raw=true",
       "winScreen": null,
       "time": null,
       "won": false,
@@ -23,10 +23,10 @@
           "solid": false,
           "animImages": [
             [
-              "https://github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
-              "https://github.com/larbaretier/test/blob/main/Scan0016.png?raw=true",
-              "https://github.com/larbaretier/test/blob/main/Scan0017.png?raw=true",
-              "https://github.com/larbaretier/test/blob/main/Scan0018.png?raw=true"
+              "github.com/larbaretier/test/blob/main/Scan0015.png?raw=true",
+              "github.com/larbaretier/test/blob/main/Scan0016.png?raw=true",
+              "github.com/larbaretier/test/blob/main/Scan0017.png?raw=true",
+              "github.com/larbaretier/test/blob/main/Scan0018.png?raw=true"
             ]
           ],
           "animationLoop": "viceversa_loop",
@@ -136,13 +136,13 @@
               ""
             ],
             [
-              "https://github.com/larbaretier/test/blob/main/breaking_glass.mp3?raw=true",
+              "github.com/larbaretier/test/blob/main/breaking_glass.mp3?raw=true",
               "add;5",
               "obj1;z1"
             ],
             [
               "obj1;0;80000;300;Line;true;",
-              "https://github.com/larbaretier/test/blob/main/opera.mp3?raw=true"
+              "github.com/larbaretier/test/blob/main/opera.mp3?raw=true"
             ]
           ]
         }
