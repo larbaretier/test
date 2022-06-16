@@ -173,7 +173,7 @@
     ,
     
     {
-    "couleur": "#324D24",
+    "couleur": "0xFF324D24",
     "createur": "newKira2",
     "imgCrea": "assets/images/giraffe.jpg",
     "jeu":{
