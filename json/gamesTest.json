@@ -348,9 +348,8 @@
     "couleur": "0xFF324D24",
     "createur": "testdeFAIL",
     "imgCrea": "assets/images/giraffe.jpg",
-    "jeu":{
-      {"title":null,"description":null,"score":null,"scoreName":null,"textCommand":null,"musics":null,"sounds":null,"winConditions":null,"backgrounds":["raw.githubusercontent.com/larbaretier/test/main/Scan0016.png"],"titleScreen":"raw.githubusercontent.com/larbaretier/test/main/Scan0016.png","gameOverScreen":"raw.githubusercontent.com/larbaretier/test/main/Scan0016.png","winScreen":null,"time":null,"won":false,"objects":[{"solid":false,"animImages":[["raw.githubusercontent.com/larbaretier/test/main/panda.png"]],"animationLoop":"loop","fps":24,"width":100,"height":100,"angle":0,"currentAnimImage":null,"mySwitch":false,"x":0,"y":0,"uniqueName":"o0","displayName":"Objet1","myConditions":[],"myActions":[],"myActionsParameters":[]}],"zones":[]}
-    }
+    "jeu":{"title":null,"description":null,"score":null,"scoreName":null,"textCommand":null,"musics":null,"sounds":null,"winConditions":null,"backgrounds":["raw.githubusercontent.com/larbaretier/test/main/Scan0016.png"],"titleScreen":"raw.githubusercontent.com/larbaretier/test/main/Scan0016.png","gameOverScreen":"raw.githubusercontent.com/larbaretier/test/main/Scan0016.png","winScreen":null,"time":null,"won":false,"objects":[{"solid":false,"animImages":[["raw.githubusercontent.com/larbaretier/test/main/panda.png"]],"animationLoop":"loop","fps":24,"width":100,"height":100,"angle":0,"currentAnimImage":null,"mySwitch":false,"x":0,"y":0,"uniqueName":"o0","displayName":"Objet1","myConditions":[],"myActions":[],"myActionsParameters":[]}],"zones":[]}
+    
     
     
 ]
