@@ -264,6 +264,19 @@
                 ""
               ],
               "connectors": []
+            },
+            {
+              "events": [
+                {
+                  "completed": false,
+                  "reverse": false,
+                  "name": "evTouchZone"
+                }
+              ],
+              "eventParameters": [
+                "z3"
+              ],
+              "connectors": []
             }
           ],
           "myActions": [
@@ -298,6 +311,11 @@
               {
                 "name": "actMusic"
               }
+            ],
+            [
+              {
+                "name": "actSound"
+              }
             ]
           ],
           "myActionsParameters": [
@@ -316,7 +334,8 @@
             [
               "obj1;0;80000;300;Line;true;",
               "github.com/larbaretier/test/blob/main/opera.mp3?raw=true"
-            ]
+            ],
+            ["github.com/larbaretier/test/blob/main/breaking_glass.mp3?raw=true"]
           ]
         }
       ],
@@ -337,6 +356,15 @@
           "width": 3000,
           "height": 3000,
           "uniqueName": "z2",
+          "shape": "rectangle"
+        },
+        {
+          "solid": false,
+          "x": 10,
+          "y": 10,
+          "width": 200,
+          "height": 200,
+          "uniqueName": "z3",
           "shape": "rectangle"
         }
       ]
